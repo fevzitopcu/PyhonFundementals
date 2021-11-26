@@ -1,0 +1,17 @@
+h1 {
+    color:red;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+h2 {
+    color:palevioletred;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+ul {
+    color:wheat;
+    font-size: large;
+    font-weight: normal;
+}
