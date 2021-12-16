@@ -1,1 +1,2 @@
-This is the first line of my text file
+My first sentenceMy second sentence,My third sentence
+My fourth sentence My last sentence
